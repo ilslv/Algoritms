@@ -16,3 +16,5 @@
 |concert.<span>in|concert.out|
 |--|--|
 |3 2 4<br>1 4 1|2|
+    
+[Решение](https://github.com/ilslv/Algoritms/blob/master/Rec_19.2/solution.cpp)
