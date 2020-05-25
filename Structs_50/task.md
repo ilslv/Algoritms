@@ -18,3 +18,5 @@
 |input.txt|output.txt|
 |--|--|
 |5<br>2 0 4 7<br>3 2 3<br>1 2 -10<br>4 0 3<br>2 3 4 9<br>5 0 4<br>0|14<br>-10<br>16|
+
+[Решение](https://github.com/ilslv/Algoritms/blob/master/Structs_50/solution.cpp)
