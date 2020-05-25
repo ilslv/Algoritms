@@ -17,3 +17,5 @@ t<sub>1, i</sub> и t<sub>2, i</sub> — периоды времени, че
 |input.txt|output.txt|
 |--|--|
 |5<br>5<br>1 6 2 4<br>2 1 3 7<br>3 1 4 1<br>4 2 5 8<br>2 2 4 9|16.5<br>1 2 3 4|
+
+[Решение](https://github.com/ilslv/Algoritms/blob/master/Graphs_19/solution.cpp)
