@@ -12,3 +12,5 @@
 |input.txt|output.txt|
 |--|--|
 |11 9<br>11000100100<br>001011001|6<br>111001|
+
+[Решение](https://github.com/ilslv/Algoritms/blob/master/Rec_12/solution.cpp)
