@@ -17,3 +17,5 @@ i-й человек начинает движение от входа xi и за
 |in.txt|out.txt|
 |--|--|
 |7 6<br>110011<br>000000<br>000100<br>000000<br>110110<br>000000<br>111010|Possible|
+
+[Решение](https://github.com/ilslv/Algoritms/blob/master/Structs_10/solution.cpp)
