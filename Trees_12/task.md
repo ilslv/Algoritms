@@ -15,3 +15,5 @@
 |tst.<span>in|tst.out|
 |--|--|
 |0<br>40<br>50<br>60<br>70<br>80<br>90<br>2<br>1|0<br>40<br>2<br>1<br>60<br>70<br>80<br>90|
+	
+[Решение](https://github.com/ilslv/Algoritms/blob/master/Trees_12/solution.cpp)
